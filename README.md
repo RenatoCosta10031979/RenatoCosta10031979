@@ -12,7 +12,7 @@ Analista de dados júnior em ascensão com paixão por educação, tecnologia e 
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
 * [Link para o projeto](https://github.com/squadOito/soulcodead2)
   
-Descrição
+* Descrição:
 Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, contamos com uma equipe composta por seis estudantes apaixonados pela análise de dados. Exploramos profundamente o cenário de Energia Renováveis no Brasil, fazendo uso das mais recentes ferramentas e tecnologias, incluindo: Python, PySpark, Google Cloud, Google Colab, MongoDB, BigQuery, Power BI, Looker Studio e Git e GitHub.
 
 **Habilidades:**
