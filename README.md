@@ -12,27 +12,23 @@ Analista de dados júnior em ascensão com paixão por educação, tecnologia e 
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
 * [Link para o projeto](https://github.com/squadOito/soulcodead2)
   
-* Descrição:
+* Descrição:\
 Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, contamos com uma equipe composta por seis estudantes apaixonados pela análise de dados. Exploramos profundamente o cenário de Energia Renováveis no Brasil, fazendo uso das mais recentes ferramentas e tecnologias, incluindo: Python, PySpark, Google Cloud, Google Colab, MongoDB, BigQuery, Power BI, Looker Studio e Git e GitHub.
 
 **Habilidades:**
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)](https://docs.python.org/3/)
-Python
-[![Power BI](https://img.shields.io/badge/Power%20BI-2.101.5260.1200-green?style=for-the-badge&logo=power-bi)](https://powerbi.microsoft.com/)
-Power BI
-[![Pandas](https://img.shields.io/badge/Pandas-1.5.2-red?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
-Pandas
-[![Excel](https://img.shields.io/badge/Excel-16.68-yellow?style=for-the-badge&logo=microsoft-excel)](https://products.office.com/excel)
-Excel
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/refman/en/)
-MySQL
-[![SpysPark](https://img.shields.io/badge/SpysPark-blue?style=for-the-badge&logo=spyspark)](https://github.com/spys-park/spys-park)
-SpysPark
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://docs.python.org/3/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-green?style=for-the-badge&logo=power-bi)](https://powerbi.microsoft.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Excel](https://img.shields.io/badge/Excel-yellow?style=for-the-badge&logo=microsoft-excel)](https://products.office.com/excel)
+[![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+
+[![Spypark](https://img.shields.io/badge/Spypark-blue?style=for-the-badge&logo=spypark)](https://spypark.com/)
 [![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-blue?style=for-the-badge&logo=google-colaboratory)](https://colab.research.google.com/)
-Google Colaboratory
-[![Git](https://img.shields.io/badge/Git-3.1.1-green?style=for-the-badge&logo=git)](https://git-scm.com/)
-Git
+[![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)](https://trello.com)
+
+
 
 **Projetos Finalizados**
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
