@@ -10,10 +10,12 @@ Analista de Dados Júnior com a missão de usar análise de dados para melhorar 
 **Experiência em Análise de Dados**
 
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
+  Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, contamos com uma equipe composta por seis estudantes apaixonados pela análise de dados. Exploramos profundamente o cenário de Energia Renováveis no Brasil, fazendo uso das mais recentes ferramentas e tecnologias, incluindo: Python, PySpark, Google Cloud, Google Colab, MongoDB, BigQuery, Power BI, Looker Studio e Git e GitHub.
 * [Link para o projeto](https://github.com/squadOito/soulcodead2)
   
-* Descrição:\
-Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, contamos com uma equipe composta por seis estudantes apaixonados pela análise de dados. Exploramos profundamente o cenário de Energia Renováveis no Brasil, fazendo uso das mais recentes ferramentas e tecnologias, incluindo: Python, PySpark, Google Cloud, Google Colab, MongoDB, BigQuery, Power BI, Looker Studio e Git e GitHub.
+* **Projeto:Case Airbnb**
+  Análise exploratória dos dados da empresa de hospedagem Airbnb, identificando os principais insights sobre o mercado de aluguel de imóveis por temporada.
+* [Link para o projeto](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb)
 
 ## Habilidades:
 
