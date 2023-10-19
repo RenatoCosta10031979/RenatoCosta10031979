@@ -50,17 +50,18 @@ Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, conta
   
 ### Bio
 
-Analista de dados júnior, com paixão por educação, tecnologia e inovação.
+Eu sou Renato Costa, Analista de Dados Júnior com a missão de usar análise de dados para melhorar a vida das pessoas. 
 
-Profissional de educação com graduação em Física e pós-graduação em Docência, com experiência em aulas de Física para Ensino Médio. Possui habilidades em comunicação e resolução de problemas. Anteriormente, adquiri experiência em vendas e atendimento ao cliente, aprimorando minhas habilidades interpessoais.
+Com experiência em educação, vendas e atendimento ao cliente, tenho habilidades em comunicação, resolução de problemas e relacionamento interpessoal.
 
-Atualmente estou desenvolvendo competências em análise de dados, por meio de cursos online e projetos extracurriculares, em preparação para minha transição de carreira.
+Como professor de Física, desenvolvi habilidades de ensino, resolução de problemas, pensamento crítico, capacidade organizacional e comunicação eficazes. 
 
-Como analista de dados júnior em ascensão, estou entusiasmado para aplicar meus conhecimentos adquiridos para auxiliar a empresa a alcançar seus objetivos de forma eficaz.
+Atualmente, estou migrando de carreira para Analista de Dados. Para isso, estou desenvolvendo competências em análise de dados por meio de cursos online e projetos extracurriculares.
+
+Como Analista de Dados Júnior, estou entusiasmado para aplicar meus conhecimentos adquiridos para auxiliar a empresa a alcançar seus objetivos de forma eficaz.
 
 Acredito que a análise de dados é uma ferramenta poderosa que pode ser usada para melhorar a tomada de decisões, aumentar a eficiência e gerar insights valiosos. Estou comprometido em usar minhas habilidades e conhecimentos para fazer uma diferença positiva no mundo.
 
 Em minhas horas vagas, gosto de editar vídeos, praticar atividades físicas ao ar livre e musculação. Adoro explorar novos assuntos e gosto de conversar sobre religião, filosofia, filmes e tecnologia.
 
-
-
+Agradeço por reservar um momento para conhecer um pouco mais sobre mim.
