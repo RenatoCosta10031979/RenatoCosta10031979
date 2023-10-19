@@ -4,7 +4,7 @@ Analista de Dados Júnior com a missão de usar análise de dados para melhorar 
 
 ## Experiência
 
-* Professor de física 
+* Professor de Física 
 * Vendedor
 
 **Experiência em Análise de Dados**
