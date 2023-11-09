@@ -2,12 +2,7 @@
 Eu sou Renato Costa\
 Analista de Dados Júnior com a missão de usar análise de dados para melhorar a vida das pessoas. 📊👨‍👩‍👧‍👦🌎
 
-## **Experiência Profissional**
-
-* Professor de Física 
-* Vendedor
-
-**Experiência em Análise de Dados**
+## **Experiência em Análise de Dados**
 
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
   Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, contamos com uma equipe composta por seis estudantes apaixonados pela análise de dados. Exploramos profundamente o cenário de Energia Renováveis no Brasil, fazendo uso das mais recentes ferramentas e tecnologias, incluindo: Python, PySpark, Google Cloud, Google Colab, MongoDB, BigQuery, Power BI, Looker Studio e Git e GitHub.
