@@ -6,11 +6,13 @@ Analista de Dados Júnior com a missão de usar análise de dados para melhorar 
 
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
   Projeto de conclusão do BootCamp da SoulCode Academy - Analista de Dados, contamos com uma equipe composta por seis estudantes apaixonados pela análise de dados. Exploramos profundamente o cenário de Energia Renováveis no Brasil, fazendo uso das mais recentes ferramentas e tecnologias, incluindo: Python, PySpark, Google Cloud, Google Colab, MongoDB, BigQuery, Power BI, Looker Studio e Git e GitHub.
-* [Link para o projeto](https://github.com/squadOito/soulcodead2)
+  
+    [Link para o projeto](https://github.com/squadOito/soulcodead2)
   
 * **Projeto:Case Airbnb**
   Análise exploratória dos dados da empresa de hospedagem Airbnb, identificando os principais insights sobre o mercado de aluguel de imóveis por temporada.
-* [Link para o projeto](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb)
+  
+    [Link para o projeto](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb)
 
 ## Habilidades:
 
@@ -24,14 +26,6 @@ Analista de Dados Júnior com a missão de usar análise de dados para melhorar 
 [![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-blue?style=for-the-badge&logo=google-colaboratory)](https://colab.research.google.com/)
 [![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)](https://trello.com)
-
-**Projetos Finalizados**
-* **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
- [Link para o projeto](https://github.com/squadOito/soulcodead2 target="_blank")
-
-**Projetos em Andamento**
-
- [Link para o projeto](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb target="_blank")
 
 
 <h3>📊 Github Stats</h3>
