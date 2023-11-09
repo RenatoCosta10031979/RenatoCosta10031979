@@ -32,11 +32,11 @@ Analista de Dados Júnior com a missão de usar análise de dados para melhorar 
 
 **Projetos Finalizados**
 * **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
-* [Link para o projeto](https://github.com/squadOito/soulcodead2 target="_blank")
+ [Link para o projeto](https://github.com/squadOito/soulcodead2 target="_blank")
 
 **Projetos em Andamento**
 
-* [Link para o projeto](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb target="_blank")
+ [Link para o projeto](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb target="_blank")
 
 
 <h3>📊 Github Stats</h3>
