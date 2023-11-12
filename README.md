@@ -44,18 +44,16 @@ Analista de Dados Júnior com a missão de usar análise de dados para melhorar 
   
 ### Bio
 
-Eu sou Renato Costa, Analista de Dados Júnior com a missão de usar análise de dados para melhorar a vida das pessoas. 
+eu sou Renato Costa, um professor de Física apaixonado por dados e tecnologia, atualmente em transição de carreira para Analista de Dados. Como educador no Ensino Médio, desenvolvi habilidades valiosas, incluindo comunicação, resolução de problemas, pensamento analítico e relacionamento interpessoal.
 
-Com experiência em educação, vendas e atendimento ao cliente, tenho habilidades em comunicação, resolução de problemas e relacionamento interpessoal.
+Meu foco atual é me tornar uma referência como Analista de Dados no mercado. Estou adquirindo as competências técnicas e interpessoais necessárias por meio de cursos online e projetos extracurriculares. Minhas atividades incluem aprender as mais recentes técnicas e tecnologias de análise de dados e aprimorar habilidades de comunicação, colaboração e resolução de problemas, cruciais para o sucesso nesse campo.
 
-Como professor de Física, desenvolvi habilidades de ensino, resolução de problemas, pensamento crítico, capacidade organizacional e comunicação eficazes. 
+Como Analista de Dados (Data Analyst), estou comprometido em aplicar meus conhecimentos e habilidades para ajudar a empresa a atingir seus objetivos, crescer e fornecer valor eficiente aos clientes.
 
-Atualmente, estou migrando de carreira para Analista de Dados. Para isso, estou desenvolvendo competências em análise de dados por meio de cursos online e projetos extracurriculares.
+Acredito que a análise de dados é uma ferramenta poderosa para melhorar a tomada de decisões, aumentar a eficiência e gerar insights valiosos. Essa visão é fundamentada na convicção de que os dados são uma forma de conhecimento, e ao usá-los de maneira inteligente, podemos criar um mundo melhor. Estou empenhado em aprender continuamente, aprimorando minhas competências técnicas e habilidades interpessoais.
 
-Como Analista de Dados Júnior, estou entusiasmado para aplicar meus conhecimentos adquiridos para auxiliar a empresa a alcançar seus objetivos de forma eficaz.
+Nas horas vagas, edito vídeos, pratico atividades físicas ao ar livre e musculação. Adoro explorar temas como religião, filosofia, filmes e tecnologia.
 
-Acredito que a análise de dados é uma ferramenta poderosa que pode ser usada para melhorar a tomada de decisões, aumentar a eficiência e gerar insights valiosos. Estou comprometido em usar minhas habilidades e conhecimentos para fazer uma diferença positiva no mundo.
+Agradeço por dedicar um momento para conhecer um pouco sobre mim. 
 
-Em minhas horas vagas, gosto de editar vídeos, praticar atividades físicas ao ar livre e musculação. Adoro explorar novos assuntos e gosto de conversar sobre religião, filosofia, filmes e tecnologia.
-
-Agradeço por reservar um momento para conhecer um pouco mais sobre mim.
+Contato profissional: renatocosta031979@gmail.com.
