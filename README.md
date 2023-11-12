@@ -13,9 +13,6 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
   
 * **Projeto: Case Airbnb**
   Desenvolvi uma análise exploratória durante o BootCamp de Analista de Dados da SoulCode, explorando dados do mercado de aluguel por temporada para identificar insights sobre o comportamento dos consumidores. Utilizei Python, Pandas, Git/GitHub, Matplotlib, Google Colab e Google Cloud.
-  
-* **Projeto: Case Airbnb**
-  Desenvolvi uma análise exploratória durante o BootCamp de Analista de Dados da SoulCode, explorando dados do mercado de aluguel por temporada para identificar insights sobre o comportamento dos consumidores. Utilizei Python, Pandas, Git/GitHub, Matplotlib, Google Colab e Google Cloud.
 
   [Acesse o Projeto Case Airbnb](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb)
 
@@ -61,4 +58,4 @@ Nas horas vagas, edito vídeos, pratico atividades físicas ao ar livre e muscul
 
 Agradeço por dedicar um momento para conhecer um pouco sobre mim. 
 
-Contato profissional: renatocosta031979@gmail.com.
+
