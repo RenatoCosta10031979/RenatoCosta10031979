@@ -1,6 +1,6 @@
 #Olá 👋,\
 Eu sou Renato Costa\
-Analista de Dados Júnior com a missão de usar análise de dados para melhorar a vida das pessoas. 📊👨‍👩‍👧‍👦🌎
+Analista de Dados Júnior com a missão de usar Análise Exploratória de Dados para melhorar a vida das pessoas. 📊👨‍👩‍👧‍👦🌎
 
 ## **Experiência em Análise de Dados**
 
@@ -40,10 +40,12 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
 ![POWER TECH](https://img.shields.io/badge/Compromentimento%20Organizacional-68da3e.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
 
 ## Educação Tecnológica:
-[![SoulCode](https://img.shields.io/badge/SoulCode-81c9fa.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://soulcode.com/bootcamp)
+[![Nérus Cotemig](https://img.shields.io/badge/Nérus/Cotemig-b71334.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://varejocomconteudo.nerus.com.br/pre-cadastros-para-curso-de-programador)
+[![SENAI](https://img.shields.io/badge/SENAI-ff0000.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://www.sp.senai.br/curso/programador-back-end/95403)
 [![UNI1500](https://img.shields.io/badge/UNI1500-003400.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://uni1500.com/uni1500-para-alunos/)
+[![SoulCode](https://img.shields.io/badge/SoulCode-81c9fa.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://soulcode.com/bootcamp)
 [![POWER TECH](https://img.shields.io/badge/Descomplica%20Potência%20Tech-5ccb5f.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://parceiros.descomplica.com.br/ifood/futuro)
-[![POWER TECH](https://img.shields.io/badge/Nérus/Cotemig-b71334.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://varejocomconteudo.nerus.com.br/pre-cadastros-para-curso-de-programador)
+
 
 
 
