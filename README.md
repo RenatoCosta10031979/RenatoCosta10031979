@@ -37,7 +37,7 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
 ![POWER TECH](https://img.shields.io/badge/Pensamento%20Crítico-4d4dff.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
 ![POWER TECH](https://img.shields.io/badge/Aprendizagem%20Constante-8c1842.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
 ![POWER TECH](https://img.shields.io/badge/Comunicação%20Interpessoal-19f8f7.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
-![POWER TECH](https://img.shields.io/badge/Compromentimento%20Organizacional-68da3e.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
+![POWER TECH](https://img.shields.io/badge/Comprometimento%20Organizacional-68da3e.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
 
 ## Educação Tecnológica:
 [![Nérus Cotemig](https://img.shields.io/badge/Nérus/Cotemig-b71334.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://varejocomconteudo.nerus.com.br/pre-cadastros-para-curso-de-programador)
@@ -72,7 +72,7 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
   
 ### Bio
 
-Sou Renato Costa, um professor de Física apaixonado por dados e tecnologia, atualmente em transição de carreira para Analista de Dados. Como educador no Ensino Médio, desenvolvi habilidades valiosas, incluindo comunicação, resolução de problemas, pensamento analítico e relacionamento interpessoal.
+Sou Renato Costa, um professor de Física de Ensino Médio apaixonado por dados e tecnologia, atualmente em transição de carreira para Analista de Dados. Como educador no Ensino Médio, desenvolvi habilidades valiosas, incluindo comunicação, resolução de problemas, pensamento analítico e relacionamento interpessoal.
 
 Meu foco atual é me tornar uma referência como Analista de Dados no mercado. Estou adquirindo as competências técnicas e interpessoais necessárias por meio de cursos online e projetos extracurriculares. Minhas atividades incluem aprender as mais recentes técnicas e tecnologias de análise de dados e aprimorar habilidades de comunicação, colaboração e resolução de problemas, cruciais para o sucesso nesse campo.
 
