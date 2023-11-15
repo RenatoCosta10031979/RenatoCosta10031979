@@ -18,19 +18,41 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
 
 
 
-## Habilidades:
+## Competência Técnica:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![Microsoft Excel](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Competência Comportamental:
+![POWER TECH](https://img.shields.io/badge/Pensamento%20Crítico-4d4dff.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
+![POWER TECH](https://img.shields.io/badge/Aprendizagem%20Constante-8c1842.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
+![POWER TECH](https://img.shields.io/badge/Comunicação%20Interpessoal-19f8f7.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
+![POWER TECH](https://img.shields.io/badge/Compromentimento%20Organizacional-68da3e.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
+
+## Educação Tecnológica:
+[![SoulCode](https://img.shields.io/badge/SoulCode-81c9fa.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://soulcode.com/bootcamp)
+[![UNI1500](https://img.shields.io/badge/UNI1500-003400.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://uni1500.com/uni1500-para-alunos/)
+[![POWER TECH](https://img.shields.io/badge/Descomplica%20Potência%20Tech-5ccb5f.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://parceiros.descomplica.com.br/ifood/futuro)
+[![POWER TECH](https://img.shields.io/badge/Nérus/Cotemig-b71334.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://varejocomconteudo.nerus.com.br/pre-cadastros-para-curso-de-programador)
+
+
+
+
+
+
+
+
+
 
 
 <h3>📊 Github Stats</h3>
@@ -44,10 +66,11 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/renatocostaanalistadedados)
  [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatocosta031979@gmail.com)
 
+
   
 ### Bio
 
-eu sou Renato Costa, um professor de Física apaixonado por dados e tecnologia, atualmente em transição de carreira para Analista de Dados. Como educador no Ensino Médio, desenvolvi habilidades valiosas, incluindo comunicação, resolução de problemas, pensamento analítico e relacionamento interpessoal.
+Sou Renato Costa, um professor de Física apaixonado por dados e tecnologia, atualmente em transição de carreira para Analista de Dados. Como educador no Ensino Médio, desenvolvi habilidades valiosas, incluindo comunicação, resolução de problemas, pensamento analítico e relacionamento interpessoal.
 
 Meu foco atual é me tornar uma referência como Analista de Dados no mercado. Estou adquirindo as competências técnicas e interpessoais necessárias por meio de cursos online e projetos extracurriculares. Minhas atividades incluem aprender as mais recentes técnicas e tecnologias de análise de dados e aprimorar habilidades de comunicação, colaboração e resolução de problemas, cruciais para o sucesso nesse campo.
 
