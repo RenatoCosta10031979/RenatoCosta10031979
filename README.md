@@ -20,16 +20,17 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
 
 ## Habilidades:
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://docs.python.org/3/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-green?style=for-the-badge&logo=power-bi)](https://powerbi.microsoft.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
-[![Excel](https://img.shields.io/badge/Excel-yellow?style=for-the-badge&logo=microsoft-excel)](https://products.office.com/excel)
-[![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-[![Spypark](https://img.shields.io/badge/Spypark-blue?style=for-the-badge&logo=spypark)](https://spypark.com/)
-[![Google Colaboratory](https://img.shields.io/badge/Google%20Colaboratory-blue?style=for-the-badge&logo=google-colaboratory)](https://colab.research.google.com/)
-[![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![Trello](https://img.shields.io/badge/Trello-green?style=for-the-badge&logo=trello)](https://trello.com)
+![Microsoft Excel](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <h3>📊 Github Stats</h3>
@@ -40,8 +41,8 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
 </div>
 
 ### Vamos nos Conectar:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/renatocostaanalistadedados)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:renatocosta031979@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/renatocostaanalistadedados)
+ [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatocosta031979@gmail.com)
 
   
 ### Bio
