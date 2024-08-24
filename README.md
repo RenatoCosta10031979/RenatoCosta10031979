@@ -18,10 +18,15 @@ Participei em equipe de uma análise exploratória de dados do cenário de Energ
 
 
 * **Projeto: Análise e Exploração de Dados: Eficiência e Reestruturação Logística no Distrito Federal**  
-  Desenvolvi uma análise exploratória para otimizar as operações logísticas da empresa XPTO no Distrito Federal. O projeto focou na distribuição eficiente de veículos, análise do impacto geográfico nas entregas, possível reestruturação dos hubs e ajuste da capacidade da frota para melhorar a eficiência operacional, reduzir tempos de entrega e aumentar a satisfação do cliente. Utilizei Python, Pandas, Google Colab, Git, e GitHub.
+  Desenvolvi uma análise exploratória para otimizar as operações logísticas da empresa XPTO no Distrito Federal. O projeto focou na distribuição eficiente de veículos, análise do impacto geográfico nas entregas, possível reestruturação dos hubs e ajuste da capacidade da frota para melhorar a eficiência operacional, reduzir tempos de entrega e aumentar a satisfação do cliente. Utilizei Python, Pandas, Google Colab, Git, e GitHub.\
+  [Análise e Exploração de Dados: Eficiência e Reestruturação Logística no Distrito Federal](https://github.com/seu_usuario/nome_do_projeto)
 
 
-  [Acesse o Projeto Análise e Exploração de Dados: Eficiência e Reestruturação Logística no Distrito Federal]<a href="https://github.com/seu_usuario/nome_do_projeto" target="_blank">Análise e Exploração de Dados: Eficiência e Reestruturação Logística no Distrito Federal</a>
+
+
+
+
+
 
 
 ## Competência Técnica:
