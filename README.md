@@ -1,94 +1,77 @@
-#Olá 👋,\
-Eu sou Renato Costa\
-Analista de Dados Júnior com a missão de usar Análise Exploratória de Dados para melhorar a vida das pessoas. 📊👨‍👩‍👧‍👦🌎
+# Olá 👋,  
+Eu sou Renato Costa  
+**Analista de Dados Júnior** com a missão de usar Análise de Dados para criar valor, tanto para as empresas quanto para seus clientes. 📊👨‍👩‍👧‍👦🌍
 
-## **Experiência em Análise de Dados**
+---
 
-* **Projeto: Panorama nacional de energias renováveis no Brasil: Riscos e Oportunidades**
- Projeto- Panorama Nacional de Energias Renováveis no Brasil: Riscos e Oportunidades:
-Participei em equipe de uma análise exploratória de dados do cenário de Energia Renovável no Brasil, com enfoque na Energia Solar. Realizei o projeto durante o BootCamp de Analista de Dados da SoulCode, utilizando Python, PySpark, Google Cloud, SQL, Google Colab, BigQuery, Power BI, MongoDB, Looker Studio, Git e GitHub.
-  
-    [Acesse o projeto  Energias Renováveis no Brasil: Riscos e Oportunidades](https://github.com/RenatoCosta10031979/EnergiaRenovaveisNoBrasil.git)
+## Experiência em Análise de Dados
 
-  
-* **Projeto: Case Airbnb**
-  Desenvolvi uma análise exploratória durante o BootCamp de Analista de Dados da SoulCode, explorando dados do mercado de aluguel por temporada para identificar insights sobre o comportamento dos consumidores. Utilizei Python, Pandas, Git/GitHub, Matplotlib, Google Colab e Google Cloud.
+Ao longo da minha trajetória, desenvolvi uma série de projetos práticos em análise de dados, com foco na exploração e visualização de insights valiosos. Esses projetos foram realizados durante cursos e bootcamps, onde apliquei técnicas avançadas e ferramentas populares de ciência de dados.
 
-  [Acesse o Projeto Case Airbnb](https://github.com/RenatoCosta10031979/Projeto_Case_Airbnb)
+- **Panorama Nacional de Energias Renováveis no Brasil**  
+  Análise exploratória do cenário de Energia Renovável no Brasil, com foco em Energia Solar, identificando riscos e oportunidades. Projeto realizado durante o BootCamp de Analista de Dados da SoulCode, utilizando ferramentas como Python, PySpark, SQL, Google Cloud e Power BI.
 
+- **Case Airbnb**  
+  Análise de dados do mercado de aluguel por temporada, identificando insights sobre o comportamento dos consumidores. Desenvolvido durante o BootCamp de Analista de Dados da SoulCode, utilizando Python, Pandas, Matplotlib e Google Cloud.
 
-* **Projeto: Análise e Exploração de Dados: Eficiência e Reestruturação Logística no Distrito Federal**  
-  Desenvolvi uma análise exploratória para otimizar as operações logísticas da empresa XPTO no Distrito Federal. O projeto focou na distribuição eficiente de veículos, análise do impacto geográfico nas entregas, possível reestruturação dos hubs e ajuste da capacidade da frota para melhorar a eficiência operacional, reduzir tempos de entrega e aumentar a satisfação do cliente. Utilizei Python, Pandas, Google Colab, Git, e GitHub.
+- **Eficiência e Reestruturação Logística no Distrito Federal**  
+  Projeto de otimização de operações logísticas para uma empresa fictícia no Distrito Federal, com foco na distribuição de veículos e reestruturação de hubs, visando aumentar a eficiência e melhorar a satisfação do cliente. Ferramentas utilizadas: Python, Pandas, Google Colab e SQL.
 
-  [Acesse o Projeto Análise e Exploração de Dados: Eficiência e Reestruturação Logística no Distrito Federal](https://github.com/RenatoCosta10031979/AnaliseExploratoriaAreaDeLogisticaEmpresaXPTO/blob/main/exploracao_logistica_xpto_df.ipynb)
+🔗 **Portfólio completo no GitHub**: [github.com/RenatoCosta10031979](https://github.com/RenatoCosta10031979?tab=repositories)
 
+---
 
-
-
-## Competência Técnica:
+## Competências Técnicas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Competência Comportamental:
-![POWER TECH](https://img.shields.io/badge/Pensamento%20Crítico-4d4dff.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
-![POWER TECH](https://img.shields.io/badge/Aprendizagem%20Constante-8c1842.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
-![POWER TECH](https://img.shields.io/badge/Comunicação%20Interpessoal-19f8f7.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
-![POWER TECH](https://img.shields.io/badge/Comprometimento%20Organizacional-68da3e.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)
+---
 
-## Educação Tecnológica:
-[![Nérus Cotemig](https://img.shields.io/badge/Nérus/Cotemig-b71334.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://varejocomconteudo.nerus.com.br/pre-cadastros-para-curso-de-programador)
-[![SENAI](https://img.shields.io/badge/SENAI-ff0000.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://www.sp.senai.br/curso/programador-back-end/95403)
-[![UNI1500](https://img.shields.io/badge/UNI1500-003400.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://uni1500.com/uni1500-para-alunos/)
-[![SoulCode](https://img.shields.io/badge/SoulCode-81c9fa.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://soulcode.com/bootcamp)
-[![POWER TECH](https://img.shields.io/badge/Descomplica%20Potência%20Tech-5ccb5f.svg?style=for-the-badge&logo=&logoColor=white&labelColor=ffffff)](https://parceiros.descomplica.com.br/ifood/futuro)
+## Competências Comportamentais
 
+![Pensamento Crítico](https://img.shields.io/badge/Pensamento%20Crítico-4d4dff.svg?style=for-the-badge&logo=&logoColor=white)
+![Aprendizagem Constante](https://img.shields.io/badge/Aprendizagem%20Constante-8c1842.svg?style=for-the-badge&logo=&logoColor=white)
+![Comunicação Interpessoal](https://img.shields.io/badge/Comunicação%20Interpessoal-19f8f7.svg?style=for-the-badge&logo=&logoColor=white)
+![Comprometimento Organizacional](https://img.shields.io/badge/Comprometimento%20Organizacional-68da3e.svg?style=for-the-badge&logo=&logoColor=white)
 
+---
 
+## Formação
 
+- **BootCamp de Analista de Dados - SoulCode Academy**
+- **Curso de Programador - SENAI**
+- **Programa de Capacitação - Descomplica Potência Tech**
+- **Curso de Programação - Nérus Cotemig**
 
+---
 
-
-
-
-
-
-
-<h3>📊 Github Stats</h3>
+## Estatísticas do GitHub
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatocosta10031979&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatocosta10031979&layout=compact&theme=tokyonight"/>
 </div>
 
-### Vamos nos Conectar:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/renatocostaanalistadedados)
- [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatocosta031979@gmail.com)
+---
 
+## Vamos nos Conectar
 
-  
-### Bio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/renatocostaanalistadedados)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:renatocosta031979@gmail.com)
 
-Sou Renato Costa, um professor de Física de Ensino Médio apaixonado por dados e tecnologia, atualmente em transição de carreira para Analista de Dados. Como educador no Ensino Médio, desenvolvi habilidades valiosas, incluindo comunicação, resolução de problemas, pensamento analítico e relacionamento interpessoal.
+---
 
-Meu foco atual é me tornar uma referência como Analista de Dados no mercado. Estou adquirindo as competências técnicas e interpessoais necessárias por meio de cursos online e projetos extracurriculares. Minhas atividades incluem aprender as mais recentes técnicas e tecnologias de análise de dados e aprimorar habilidades de comunicação, colaboração e resolução de problemas, cruciais para o sucesso nesse campo.
+## Bio
 
-Como Analista de Dados (Data Analyst), estou comprometido em aplicar meus conhecimentos e habilidades para ajudar a empresa a atingir seus objetivos, crescer e fornecer valor eficiente aos clientes.
+Sou Renato Costa, anteriormente professor de Física no Ensino Médio, agora Analista de Dados Júnior em transição para o setor de tecnologia. Minha jornada me levou a desenvolver habilidades analíticas robustas e a paixão por dados. Hoje, estou focado em explorar dados para criar valor para as empresas e melhorar a experiência de seus clientes.
 
-Acredito que a análise de dados é uma ferramenta poderosa para melhorar a tomada de decisões, aumentar a eficiência e gerar insights valiosos. Essa visão é fundamentada na convicção de que os dados são uma forma de conhecimento, e ao usá-los de maneira inteligente, podemos criar um mundo melhor. Estou empenhado em aprender continuamente, aprimorando minhas competências técnicas e habilidades interpessoais.
+Além do trabalho com dados, sou apaixonado por tecnologia, adoro explorar novos conhecimentos e estou sempre me aprimorando para acompanhar as demandas do setor. Nos meus momentos livres, gosto de editar vídeos, praticar atividades físicas e discutir temas como religião, filosofia e filmes.
 
-Nas horas vagas, edito vídeos, pratico atividades físicas ao ar livre e musculação. Adoro explorar temas como religião, filosofia, filmes e tecnologia.
-
-Agradeço por dedicar um momento para conhecer um pouco sobre mim. 
-
-
+Obrigado por visitar meu perfil! 🚀
